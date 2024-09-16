@@ -53,6 +53,5 @@ public class ReportGenerator {
 
             reportGenerator.addExpense(description, amount);
         }
-
         reportGenerator.generateReport();}
 }
